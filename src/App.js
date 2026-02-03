@@ -113,7 +113,7 @@ const pieData = useMemo(() => ({
         transition={{ repeat: Infinity, duration: 20, ease: "linear" }}
       />
       <h1 className="text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-pink-600 to-violet-600 mt-2">
-        Hamath Expense Tracker
+        Hamath's Expense Tracker
       </h1>
     </div>
 
